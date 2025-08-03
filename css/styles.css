@@ -52,6 +52,7 @@ img {
     left: 0;
     width: 100%;
     background-color: #ffffff;
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .header-container {
@@ -127,7 +128,9 @@ img {
 .hero {
     margin-top: 72px;
     background-color: #2e2f42;
-    height: 600px;
+    min-height: 600px;
+    padding: 188px 0;
+
 }
 
 .hero-container {
